@@ -15,7 +15,7 @@
 
 --------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser1412&exclude_repo=FullScene-CG,CV-Tasks&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khloud-azeem&exclude_repo=FullScene-CG,CV-Tasks&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Languages & Technologies
 
