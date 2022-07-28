@@ -4,7 +4,7 @@
 
 - ⚡ I'm a Biomedical engineer and I love coding. 
 - 🔭 Intrested in Software development. 
-- 🌱 I'm currently learning Flutter.
+- 🌱 I'm currently learning Flutter and node.js.
 - 📫 How to reach me: khloud.azeem122@gmail.com
 
 ## 📝 Resume 
