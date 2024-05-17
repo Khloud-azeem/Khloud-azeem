@@ -9,8 +9,8 @@
 
 ## 📝 Resume 
 
-<a href="https://drive.google.com/file/d/1mU8m8xi7N8C3ck6z5NGnFZYyN6Lrlhjq/view" type="application/pdf">
-  <img src="Khloud-Abdelazeem-Resume.jpg" alt="Khloud Abdelazeem | Resume" width="300">
+<a href="https://drive.google.com/file/d/1CzeIwXE8FenDlSMmWWryHT4KJDjNGRht/view" type="application/pdf">
+  <img src="Khloud-Abdelazeem-Resume.png" alt="Khloud Abdelazeem | Resume" width="300">
 </a>
 
 --------
